@@ -23,9 +23,6 @@ I'm a passionate software developer based in Slovenia. I love to code and do spo
 - LinkedIn: [Jaka Gaal](https://www.linkedin.com/in/jaka-gaal-9b6977232/)
 - Email: jaka.gaal@gmail.com
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 ## ⚡ Fun fact
 I almost qualified of the Tokyo 2020 olympic games
 ---
