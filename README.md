@@ -24,7 +24,7 @@ I'm a passionate software developer based in Slovenia. I love to code and do spo
 - Email: jaka.gaal@gmail.com
 
 ## ⚡ Fun fact
-I almost qualified of the Tokyo 2020 olympic games
+- I almost qualified of the Tokyo 2020 olympic games
 ---
 
 💻 Made with ❤️ by Jaka
