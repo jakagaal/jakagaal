@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jaka Gaal
 
 ## 🚀 About Me
-I'm a passionate software developer based in Slovenia. I love to code and do sports. Ocassionaly dabble in photography and videography.
+I'm a software developer based in Slovenia. I love to code and do sports. Ocassionaly dabble in photography and videography.
 
 ## 🛠 Skills
 - Programming Languages: Javascript
@@ -11,10 +11,6 @@ I'm a passionate software developer based in Slovenia. I love to code and do spo
 ## 🔭 Current Projects
 - Ajmo: React Native mobile application for organising sporting events
 - Portfolio website: Next.js porfolio website
-  
-## 🌱 I'm currently learning
-- Vue.js
-- Docker
 
 ## 💼 Work Experience
 - Front end developer at Plume design d.o.o (2021 - Present)
@@ -22,9 +18,6 @@ I'm a passionate software developer based in Slovenia. I love to code and do spo
 ## 📫 How to reach me
 - LinkedIn: [Jaka Gaal](https://www.linkedin.com/in/jaka-gaal-9b6977232/)
 - Email: jaka.gaal@gmail.com
-
-## ⚡ Fun fact
-- I almost qualified of the Tokyo 2020 olympic games
 ---
 
 💻 Made with ❤️ by Jaka
